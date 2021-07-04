@@ -1,5 +1,3 @@
-
-
 # Move to the AIRFLOW HOME directory
 cd $AIRFLOW_HOME
 
